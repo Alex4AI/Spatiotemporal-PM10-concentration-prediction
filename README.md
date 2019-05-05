@@ -1,4 +1,4 @@
-# Spatiotemporal-PM10-concentration-prediction
+# Spatiotemporal PM10 concentration prediction
 
 ## Multivariate Time Series Forecasting Project
 
